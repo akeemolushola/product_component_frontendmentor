@@ -135,7 +135,7 @@ h1 {
     .img_container {
         background-image: url(images/image-product-mobile.jpg);
         height: 20rem;
-        border-radius: 1rem 1rem 0rem 0rem
+        border-radius: 1rem 1rem 0rem 0rem;
     }
   }
 
