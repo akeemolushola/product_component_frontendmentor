@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/akeemolushola/product_component_frontendmentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here to view github solution](https://github.com/akeemolushola/product_component_frontendmentor)
+- Live Site URL: [Click here to view live site](https://your-live-site-url.com)
 
 ## My process
 
@@ -33,6 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS properties
+- CSS Grid
 
 
 ### What I learned
