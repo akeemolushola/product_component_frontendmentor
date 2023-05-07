@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/akeemolushola/product_component_frontendmentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://akeemolushola.github.io/product_component_frontendmentor/)
 
 ## My process
 
@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I used to refresh my memory on some semantic html tags and CSS properties, and in the cause of the project, I did make use of transform properties and media queries that i'm almost forgetting
+I used to refresh my memory on some semantic html tags and CSS properties, and in the cause of the project, I did make use of transform properties and media queries that i'm almost forgetting. I also make use of Grid in the project
 
 ### Continued development
 
